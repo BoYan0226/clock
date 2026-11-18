@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background-color: black;
+    color: white;
+    font-family: Futura, "Century Gothic", sans-serif;
+
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+
+#txt {
+    font-size: 80px;
+    font-weight: normal;
+}
